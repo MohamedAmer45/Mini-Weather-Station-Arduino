@@ -1,6 +1,6 @@
 # Mini-Weather-Station
 
-Mini-Weather Station is an Iot based project used for collecting different weather data through the used sensonrs.
+Mini-Weather Station is an Iot based project used for collecting different weather data through the used sensors.
 The station sends the data wirelessly through WiFi.
 
 # Hardware Used:
